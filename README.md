@@ -6,4 +6,4 @@ Also, he can corrupt a MBR (Master Boot Record). This is most powerful than remo
 # 🎬 Demonstration
 ![0099](https://github.com/SuperTankRevive/Arhibot2.0/assets/99078375/94ad27ee-60b6-43a6-93bf-53b976644643)
 # 📂 Source Code?
-10+ likes and i will upload ;)
+I'm published source code. Check out!
